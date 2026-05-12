@@ -4,7 +4,7 @@
     "url": "$HA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "78.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.96%",
