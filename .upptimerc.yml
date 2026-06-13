@@ -7,6 +7,8 @@ sites:
   - name: Box
     url: $BOX_URL
     __dangerous__disable_verify_peer: true
+  - name: Mon site
+    url: https://lfavole.fr
 
 workflowSchedule:
   uptime: "*/30 * * * *"
