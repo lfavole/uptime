@@ -4,16 +4,16 @@
     "url": "$HA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "81.04%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "81.04%",
+    "status": "up",
+    "uptime": "81.02%",
+    "uptimeDay": "88.72%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "81.02%",
     "time": 706,
-    "timeDay": 773,
-    "timeWeek": 902,
-    "timeMonth": 886,
+    "timeDay": 704,
+    "timeWeek": 868,
+    "timeMonth": 879,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2025-07-24": 1098,
@@ -131,7 +131,7 @@
       "2026-05-22": 14,
       "2026-05-31": 250,
       "2026-06-11": 217,
-      "2026-06-24": 5
+      "2026-06-24": 162
     }
   },
   {
@@ -139,16 +139,16 @@
     "url": "$BOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "box",
-    "status": "down",
-    "uptime": "89.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "89.81%",
+    "status": "up",
+    "uptime": "89.78%",
+    "uptimeDay": "89.05%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "89.78%",
     "time": 548,
-    "timeDay": 587,
-    "timeWeek": 755,
-    "timeMonth": 576,
+    "timeDay": 642,
+    "timeWeek": 747,
+    "timeMonth": 579,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2025-07-24": 1098,
@@ -205,7 +205,7 @@
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 507,
-      "2026-06-24": 0
+      "2026-06-24": 158
     }
   },
   {
