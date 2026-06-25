@@ -4,12 +4,12 @@
     "url": "$HA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "81.04%",
-    "uptimeDay": "88.72%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "81.04%",
+    "status": "down",
+    "uptime": "81.06%",
+    "uptimeDay": "88.37%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "81.06%",
     "time": 706,
     "timeDay": 732,
     "timeWeek": 843,
@@ -131,7 +131,8 @@
       "2026-05-22": 14,
       "2026-05-31": 250,
       "2026-06-11": 217,
-      "2026-06-24": 162
+      "2026-06-24": 162,
+      "2026-06-25": 5
     }
   },
   {
@@ -139,12 +140,12 @@
     "url": "$BOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "box",
-    "status": "up",
-    "uptime": "89.79%",
-    "uptimeDay": "89.05%",
-    "uptimeWeek": "98.44%",
+    "status": "down",
+    "uptime": "89.80%",
+    "uptimeDay": "89.04%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "89.79%",
+    "uptimeYear": "89.80%",
     "time": 549,
     "timeDay": 717,
     "timeWeek": 731,
@@ -205,7 +206,8 @@
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 507,
-      "2026-06-24": 158
+      "2026-06-24": 158,
+      "2026-06-25": 0
     }
   },
   {
