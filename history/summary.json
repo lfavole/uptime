@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "81.06%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "81.06%",
-    "time": 706,
-    "timeDay": 732,
+    "uptime": "80.91%",
+    "uptimeDay": "39.62%",
+    "uptimeWeek": "89.76%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "80.91%",
+    "time": 708,
+    "timeDay": 0,
     "timeWeek": 843,
-    "timeMonth": 882,
-    "timeYear": 706,
+    "timeMonth": 868,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2025-07-24": 1098,
       "2025-07-23": 914,
@@ -132,7 +132,8 @@
       "2026-05-31": 250,
       "2026-06-11": 217,
       "2026-06-24": 162,
-      "2026-06-25": 5
+      "2026-06-26": 26,
+      "2026-06-25": 843
     }
   },
   {
@@ -141,15 +142,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "box",
     "status": "down",
-    "uptime": "89.80%",
-    "uptimeDay": "89.04%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "89.80%",
+    "uptime": "89.64%",
+    "uptimeDay": "39.96%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "89.64%",
     "time": 549,
-    "timeDay": 717,
+    "timeDay": 0,
     "timeWeek": 731,
-    "timeMonth": 589,
+    "timeMonth": 590,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-07-24": 1098,
@@ -207,7 +208,8 @@
       "2026-04-30": 1440,
       "2026-04-29": 507,
       "2026-06-24": 158,
-      "2026-06-25": 0
+      "2026-06-26": 26,
+      "2026-06-25": 839
     }
   },
   {
@@ -215,17 +217,19 @@
     "url": "https://lfavole.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lfavole.fr.ico",
     "slug": "mon-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
-    "timeDay": 668,
+    "timeDay": 0,
     "timeWeek": 970,
     "timeMonth": 834,
     "timeYear": 834,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-26": 0
+    }
   }
 ]
