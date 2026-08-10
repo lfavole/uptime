@@ -218,23 +218,23 @@
     "url": "https://lfavole.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lfavole.fr.ico",
     "slug": "mon-site",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.16%",
-    "time": 743,
-    "timeDay": 653,
-    "timeWeek": 758,
-    "timeMonth": 726,
-    "timeYear": 743,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.10%",
+    "time": 748,
+    "timeDay": 855,
+    "timeWeek": 791,
+    "timeMonth": 735,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2026-06-28": 229,
       "2026-07-04": 282,
       "2026-07-18": 176,
       "2026-08-08": 22,
-      "2026-08-10": 0
+      "2026-08-10": 51
     }
   }
 ]
