@@ -4,16 +4,16 @@
     "url": "$HA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "83.64%",
-    "uptimeDay": "65.70%",
-    "uptimeWeek": "92.41%",
-    "uptimeMonth": "87.83%",
-    "uptimeYear": "83.55%",
-    "time": 808,
-    "timeDay": 625,
+    "status": "up",
+    "uptime": "83.59%",
+    "uptimeDay": "58.91%",
+    "uptimeWeek": "88.62%",
+    "uptimeMonth": "86.96%",
+    "uptimeYear": "83.48%",
+    "time": 809,
+    "timeDay": 582,
     "timeWeek": 824,
-    "timeMonth": 866,
+    "timeMonth": 865,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-11-28": 29,
@@ -107,7 +107,7 @@
       "2026-10-29": 1440,
       "2026-10-28": 778,
       "2026-11-26": 556,
-      "2026-11-27": 209
+      "2026-11-27": 592
     }
   },
   {
